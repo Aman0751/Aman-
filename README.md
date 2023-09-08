@@ -1,4 +1,4 @@
 # Aman-
 This is First Git Repos
 <br>
-Author = Aman Prajapat
+Author = Aman Aman
